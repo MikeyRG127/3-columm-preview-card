@@ -41,6 +41,6 @@ MOBILE
 N/A
 
 ## Author
-
-- Website - [Add your name here](https://www.mikeyrg127.com)
-- GITHUB - [@yourusername](https://github.com/MikeyRG127/)
+-
+- Website - [MikeyRG](https://www.mikeyrg127.com)
+- GITHUB - [@MikeyRG127](https://github.com/MikeyRG127/)
