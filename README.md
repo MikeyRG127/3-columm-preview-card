@@ -26,8 +26,8 @@ MOBILE
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://github.com/MikeyRG127/3-columm-preview-card)
-- Live Site URL: [Add live site URL here](https://3-columm-preview-card-kbs2.vercel.app/)
+- Solution URL: [GITHUB REPOSITORY](https://github.com/MikeyRG127/3-columm-preview-card)
+- Live Site URL: [LIVE SITE](https://3-columm-preview-card-kbs2.vercel.app/)
 
 ### Built with
 
